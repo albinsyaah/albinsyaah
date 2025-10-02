@@ -24,26 +24,6 @@ I am a dedicated and detail-oriented developer focused on building efficient, sc
 
 ---
 
-## Projects
-
-**[Portfolio Website](https://albins.my.id)**  
-A personal portfolio website showcasing my skills, experience, and projects.
-
-**[Project Name](https://github.com/YOUR_USERNAME/PROJECT_NAME)**  
-Brief description of the project and its purpose.  
-Tech Stack: Laravel, MySQL, JavaScript
-
-*(Add more projects as needed.)*
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albinsyaah&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albinsyaah&layout=compact&theme=default)
-
----
-
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/albinsyah](https://linkedin.com/in/albinsyah)  
