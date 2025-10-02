@@ -1,6 +1,6 @@
 # About Me
 
-I am a dedicated and detail-oriented developer focused on building efficient, scalable, and user-friendly web applications. I enjoy solving complex problems through clean and maintainable code while constantly improving my technical and soft skills.
+Web developer who likes creating simple, efficient, and user-friendly websites and applications. Enjoys learning new technologies and improving my coding skills while building practical projects.
 
 ---
 
