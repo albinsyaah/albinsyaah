@@ -8,7 +8,7 @@ Web developer who likes creating simple, efficient, and user-friendly websites a
 
 **Frontend Development**
 - HTML5, CSS3, JavaScript (ES6+)
-- React.js(Progress), Tailwind CSS, Bootstrap
+- Tailwind CSS, Bootstrap
 
 **Backend Development**
 - PHP, Laravel
